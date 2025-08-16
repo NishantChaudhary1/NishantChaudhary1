@@ -158,23 +158,6 @@ responsibilities:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|------------|----------------|----------------|----------|
-| **🏥 AliveCor Service** | Healthcare service infrastructure with high availability | `Kubernetes`, `Docker`, `AWS` | [🔗 Code](https://github.com/NishantChaudhary1) |
-| **📊 DB Services** | Database management and migration automation | `PostgreSQL`, `MongoDB`, `Terraform` | [🔗 Code](https://github.com/NishantChaudhary1) |
-| **⚙️ DevOps Scripts** | Collection of automation scripts for DevOps workflows | `Bash`, `Python`, `Ansible` | [🔗 Code](https://github.com/NishantChaudhary1) |
-| **⎈ Helm Charts** | Production-ready Kubernetes helm charts | `Kubernetes`, `Helm`, `YAML` | [🔗 Code](https://github.com/NishantChaudhary1) |
-| **🏗️ Pipeline Infrastructure** | Complete CI/CD pipeline infrastructure | `Jenkins`, `Terraform`, `AWS` | [🔗 Code](https://github.com/NishantChaudhary1) |
-| **📈 VitalConnect Pipeline** | Medical data processing pipeline | `Docker`, `Kubernetes`, `Monitoring` | [🔗 Code](https://github.com/NishantChaudhary1) |
-
-</div>
-
----
-
 ## 🎯 Key Achievements
 
 ```yaml
